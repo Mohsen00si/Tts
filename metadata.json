@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-to-Speech",
+  "description": "A modern web application that converts text to speech using the Gemini TTS API. Users can input long text, choose from various voices, and generate high-quality audio.",
+  "requestFramePermissions": []
+}
